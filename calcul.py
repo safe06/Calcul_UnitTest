@@ -13,7 +13,8 @@ class Calcul:
             return a / b
         else:
             return "Division par zéro impossible"
-        
+
+    # # version 2 de division par 0    
     # def diviser(self, a, b):
     #     if b == 0:
     #         raise ZeroDivisionError("Division par zéro impossible")
